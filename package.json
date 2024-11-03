@@ -1,7 +1,7 @@
 {
-  "name": "focus",
-  "version": "8.3.5",
-  "description": "Focus' Professional Discord moderation bot.",
+  "name": "kalveda",
+  "version": "1.0.0",
+  "description": "kalveda' Professional Discord moderation bot.",
   "main": "index.js",
   "scripts": {
     "logs": "heroku logs --app focus-dis -t",
@@ -9,7 +9,7 @@
     "heroku": "git commit -am .",
     "postheroku": "git push heroku master"
   },
-  "author": "Focus#7804",
+  "author": "engi.harsh",
   "license": "ISC",
   "engines": {
     "node": "16.x"
