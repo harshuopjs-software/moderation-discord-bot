@@ -1,0 +1,39 @@
+{
+  "helpEmojis": {
+    "staffEmojiId": "1297105158358040576",
+    "infoEmojiId": "1297105196597379137",
+    "loggingEmojiId": "1297105167405023243",
+    "welcomeEmojiId": "1297105170181656598",
+    "funEmojiId": "1297105170181656598",
+    "debugEmojiId": "1297105170181656598"
+  },
+  "pinEmojiId": "1297105199470481418",
+  "suggestionChId": "1297105199470481418",
+  "bugChId": "1297105199470481418",
+  "urls": {
+    "botInviteLink": "https://discord.com/oauth2/authorize?client_id=1297096900926902296&permissions=268561494&scope=bot%20applications.commands",
+    "discordInviteLink": "https://discord.gg/QtZcHpAsmM",
+    "topgg": "https://top.gg/bot/",
+    "website": "https://harshkumarsingh.software",
+    "github": "https://github.com/harshuopjs"
+  },
+  "deafultWelcomeMsg": "Wish [user] a pleasant stay!",
+  "defaultLeaveMsg": "[user] has parted ways with us...",
+  "suggestionPending": {
+    "color": "#ffff00",
+    "statusTitle": "Suggestion Pending",
+    "status": "This suggestion is currently awaiting review, please be patient."
+  },
+  "suggestionAccepted": {
+    "color": "#008000",
+    "statusTitle": "Suggestion Accepted",
+    "status": "This suggestion has been accepted and is soon to be implemented!"
+  },
+  "suggestionDeclined": {
+    "color": "#ff0000",
+    "statusTitle": "Suggestion Declined",
+    "status": "Thanks for your interest, but we currently don't need this feature."
+  },
+  "suggestionApprove": "👍",
+  "suggestionDecline": "👎"
+}
